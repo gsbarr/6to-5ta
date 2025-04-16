@@ -1,0 +1,16 @@
+.tituloFecha {
+    font-family: Verdana;
+}
+
+
+body{
+    background-color: blueviolet;
+}
+
+.cuerpo {
+    background-color: white;
+    width: 80%;
+    margin-left: 10%;
+    margin-right:10%;
+    padding: 10px;
+}
